@@ -1,0 +1,14 @@
+[
+    {
+      "name": "project1",
+      "live": "https://project1-drab.vercel.app/",
+      "git": "https://github.com/Nellie7190/project1",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://proj-hero-ku.herokuapp.com/",
+      "git": "https://github.com/Nellie7190/project-2",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
