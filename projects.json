@@ -3,12 +3,12 @@
       "name": "project1",
       "live": "https://project1-drab.vercel.app/",
       "git": "https://github.com/Nellie7190/project1",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/XnCZF07"
     },
     {
       "name": "project2",
       "live": "https://proj-hero-ku.herokuapp.com/",
       "git": "https://github.com/Nellie7190/project-2",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "image": "https://imgur.com/vpwbm4T"
     }
   ]
