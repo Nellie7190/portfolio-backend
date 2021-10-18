@@ -17,6 +17,11 @@ app.get('/', (req, res) => {
     res.send('Hello World');
 });
 
+//ABOUT ROUTE
+app.get('/about', (req, res) => {
+    res.json(about);
+});
+
 //PROJECTS ROUTE
 app.get('/projects', (req, res) => {
     res.json(projects);
