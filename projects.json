@@ -10,5 +10,17 @@
       "live": "https://proj-hero-ku.herokuapp.com/",
       "git": "https://github.com/Nellie7190/project-2",
       "image": "https://i.imgur.com/vpwbm4T.png"
+    },
+    {
+      "name": "project3",
+      "live": "https://project-3-frontend-lib.netlify.app/",
+      "git": "https://github.com/Nellie7190/project-3-frontend",
+      "image": "https://imgur.com/iYMXm3W"
+    },
+    {
+      "name": "project4",
+      "live": "https://klng.herokuapp.com/",
+      "git": "https://github.com/Nellie7190/capstone-frontend",
+      "image": "https://i.imgur.com/vpwbm4T.png"
     }
   ]
