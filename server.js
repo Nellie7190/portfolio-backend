@@ -12,21 +12,20 @@ const app = express();
 //MIDDLEWARE
 app.use(cors());
 
-//HOME ROUTE
+//ABOUT ROUTE
 app.get('/', (req, res) => {
-    res.send('Hello World');
+    res.json(about);
 });
 
-//ABOUT ROUTE
-app.get('/about', (req, res) => {
-    res.json(about);
+//Resume ROUTE
+app.get('/resume', (req, res) => {
+    res.send('Resume');
 });
 
 //PROJECTS ROUTE
 app.get('/projects', (req, res) => {
     res.json(projects);
 });
-
 
 //creating PORT
 const PORT = process.env.PORT || 4000;
