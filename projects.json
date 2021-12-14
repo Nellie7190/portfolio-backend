@@ -20,7 +20,13 @@
     {
       "name": "project4",
       "live": "https://klng.herokuapp.com/",
-      "git": "https://github.com/Nellie7190/capstone-frontend",
+      "git": "https://github.com/GJJ52019/KLNG-frontend",
       "image": "https://imgur.com/5BVR7EQ.png"
+    },
+    {
+      "name": "safeSpace",
+      "live": "https://capstone-proj.netlify.app/",
+      "git": "https://github.com/Nellie7190/capstone-frontend",
+      "image": "https://imgur.com/PVd9MhG.png"
     }
   ]
