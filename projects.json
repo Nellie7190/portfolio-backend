@@ -1,27 +1,21 @@
 [
     {
-      "name": "project1",
+      "name": "Dad Jokes",
       "live": "https://project1-drab.vercel.app/",
       "git": "https://github.com/Nellie7190/project1",
       "image": "https://i.imgur.com/XnCZF07.png"
     },
     {
-      "name": "project2",
+      "name": "Rate My Instructor",
       "live": "https://proj-hero-ku.herokuapp.com/",
       "git": "https://github.com/Nellie7190/project-2",
       "image": "https://i.imgur.com/vpwbm4T.png"
     },
     {
-      "name": "project3",
+      "name": "Code Libs",
       "live": "https://project-3-frontend-lib.netlify.app/",
       "git": "https://github.com/Nellie7190/project-3-frontend",
       "image": "https://imgur.com/iYMXm3W.png"
-    },
-    {
-      "name": "project4",
-      "live": "https://klng.herokuapp.com/",
-      "git": "https://github.com/GJJ52019/KLNG-frontend",
-      "image": "https://imgur.com/5BVR7EQ.png"
     },
     {
       "name": "safeSpace",
