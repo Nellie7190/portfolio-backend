@@ -3,24 +3,28 @@
       "name": "Dad Jokes",
       "live": "https://project1-drab.vercel.app/",
       "git": "https://github.com/Nellie7190/project1",
-      "image": "https://i.imgur.com/XnCZF07.png"
+      "image": "https://i.imgur.com/XnCZF07.png",
+      "description": "Site that provides corny 'Dad joke' & punchline-line setup for laughs"
     },
     {
       "name": "Rate My Instructor",
       "live": "https://proj-hero-ku.herokuapp.com/",
       "git": "https://github.com/Nellie7190/project-2",
-      "image": "https://i.imgur.com/vpwbm4T.png"
+      "image": "https://i.imgur.com/vpwbm4T.png",
+      "description": "Site where you can add, rate and review an instructor"
     },
     {
       "name": "Code Libs",
       "live": "https://project-3-frontend-lib.netlify.app/",
       "git": "https://github.com/Nellie7190/project-3-frontend",
-      "image": "https://imgur.com/iYMXm3W.png"
+      "image": "https://imgur.com/iYMXm3W.png",
+      "description": "Site where you can create a fun story and choose your own adventure"
     },
     {
       "name": "safeSpace",
       "live": "https://capstone-proj.netlify.app/",
       "git": "https://github.com/Nellie7190/capstone-frontend",
-      "image": "https://imgur.com/PVd9MhG.png"
+      "image": "https://imgur.com/PVd9MhG.png",
+      "description": "Site for different minority groups to find safe places to go for various needs of all sorts"
     }
   ]
