@@ -1,10 +1,9 @@
-[
-    {
-      "name": "Dad Jokes",
-      "live": "https://project1-drab.vercel.app/",
-      "git": "https://github.com/Nellie7190/project1",
-      "image": "https://i.imgur.com/XnCZF07.png",
-      "description": "Site that provides corny 'Dad joke' & punchline-line setup for laughs"
+[   {
+      "name": "safeSpace",
+      "live": "https://capstone-proj.netlify.app/",
+      "git": "https://github.com/Nellie7190/capstone-frontend",
+      "image": "https://imgur.com/PVd9MhG.png",
+      "description": "Site for different minority groups to find safe places to go for various needs of all sorts"
     },
     {
       "name": "Rate My Instructor",
@@ -21,10 +20,10 @@
       "description": "Site where you can create a fun story and choose your own adventure"
     },
     {
-      "name": "safeSpace",
-      "live": "https://capstone-proj.netlify.app/",
-      "git": "https://github.com/Nellie7190/capstone-frontend",
-      "image": "https://imgur.com/PVd9MhG.png",
-      "description": "Site for different minority groups to find safe places to go for various needs of all sorts"
+      "name": "Dad Jokes",
+      "live": "https://project1-drab.vercel.app/",
+      "git": "https://github.com/Nellie7190/project1",
+      "image": "https://i.imgur.com/XnCZF07.png",
+      "description": "Site that provides corny 'Dad joke' & punchline-line setup for laughs"
     }
   ]
